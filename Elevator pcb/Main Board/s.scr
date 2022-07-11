@@ -1,0 +1,634 @@
+# NetScript
+# 
+# Exported from Main Board.sch at 10/9/2020 5:25 AM
+# 
+# EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+# 
+Change Class 0;
+Signal 'A1-0'     'R33'      'P$1' \
+                  'U2'       '23' \
+                  'X6'       '1' \
+                  ;
+Change Class 0;
+Signal 'A1-1'     'R68'      'P$1' \
+                  'U2'       '24' \
+                  'X6'       '2' \
+                  ;
+Change Class 0;
+Signal 'A1-2'     'R64'      'P$2' \
+                  'R67'      'P$1' \
+                  'X6'       '3' \
+                  ;
+Change Class 0;
+Signal 'A1-3'     'R66'      'P$1' \
+                  'U2'       '26' \
+                  'X6'       '4' \
+                  ;
+Change Class 0;
+Signal 'A3-0'     'R52'      'P$1' \
+                  'SV2'      '12' \
+                  'U3'       '23' \
+                  ;
+Change Class 0;
+Signal 'A3-1'     'R53'      'P$1' \
+                  'SV2'      '10' \
+                  'U3'       '24' \
+                  ;
+Change Class 0;
+Signal 'A3-2'     'R54'      'P$1' \
+                  'SV2'      '8' \
+                  'U3'       '25' \
+                  ;
+Change Class 0;
+Signal 'A3-3'     'R55'      'P$1' \
+                  'SV2'      '6' \
+                  'U3'       '26' \
+                  ;
+Change Class 0;
+Signal 'A4'       'POWER-INPUT1' '2' \
+                  'POWER-INPUT2' '2' \
+                  'POWER-INPUT3' '2' \
+                  'POWER-INPUT4' '2' \
+                  'POWER-INPUT5' '2' \
+                  'POWER-INPUT6' '2' \
+                  'POWER-INPUT7' '2' \
+                  'POWER-INPUT8' '2' \
+                  'R4'       'P$2' \
+                  'R43'      'P$1' \
+                  'R8'       'P$1' \
+                  'U3'       '27' \
+                  ;
+Change Class 0;
+Signal 'A5'       'POWER-INPUT1' '1' \
+                  'POWER-INPUT2' '1' \
+                  'POWER-INPUT3' '1' \
+                  'POWER-INPUT4' '1' \
+                  'POWER-INPUT5' '1' \
+                  'POWER-INPUT6' '1' \
+                  'POWER-INPUT7' '1' \
+                  'POWER-INPUT8' '1' \
+                  'R11'      'P$1' \
+                  'R13'      'P$2' \
+                  'R49'      'P$1' \
+                  'R49'      'P$2' \
+                  'R51'      'P$2' \
+                  'U3'       '28' \
+                  ;
+Change Class 0;
+Signal 'D1-2'     'R65'      'P$1' \
+                  'U2'       '4' \
+                  'X7'       '1' \
+                  ;
+Change Class 0;
+Signal 'D1-3'     'R36'      'P$1' \
+                  'U2'       '5' \
+                  'X7'       '2' \
+                  ;
+Change Class 0;
+Signal 'D1-4'     'R35'      'P$1' \
+                  'U2'       '6' \
+                  'X7'       '3' \
+                  ;
+Change Class 0;
+Signal 'D1-6'     'R34'      'P$1' \
+                  'U2'       '12' \
+                  'X7'       '4' \
+                  ;
+Change Class 0;
+Signal 'D1-7'     'R69'      'P$1' \
+                  'U2'       '13' \
+                  'X7'       '5' \
+                  ;
+Change Class 0;
+Signal 'D1-8'     'R26'      'P$1' \
+                  'U2'       '14' \
+                  ;
+Change Class 0;
+Signal 'D1-9'     'R24'      'P$1' \
+                  'U2'       '15' \
+                  ;
+Change Class 0;
+Signal 'D1-10'    'R22'      'P$1' \
+                  'U2'       '16' \
+                  ;
+Change Class 0;
+Signal 'D1-11'    'R20'      'P$1' \
+                  'U2'       '17' \
+                  ;
+Change Class 0;
+Signal 'D1-12'    'R18'      'P$1' \
+                  'U2'       '18' \
+                  ;
+Change Class 0;
+Signal 'D1-13'    'R16'      'P$1' \
+                  'U2'       '19' \
+                  ;
+Change Class 0;
+Signal 'D3-0'     'R61'      'P$1' \
+                  'SV3'      '2' \
+                  'U3'       '2' \
+                  ;
+Change Class 0;
+Signal 'D3-1'     'R60'      'P$1' \
+                  'SV3'      '4' \
+                  'U3'       '3' \
+                  ;
+Change Class 0;
+Signal 'D3-2'     'R59'      'P$1' \
+                  'SV3'      '6' \
+                  'U3'       '4' \
+                  ;
+Change Class 0;
+Signal 'D3-3'     'R58'      'P$1' \
+                  'SV3'      '8' \
+                  'U3'       '5' \
+                  ;
+Change Class 0;
+Signal 'D3-4'     'R47'      'P$2' \
+                  'S8'       '1' \
+                  'U3'       '6' \
+                  'X4'       '5' \
+                  ;
+Change Class 0;
+Signal 'D3-5'     'R39'      'P$2' \
+                  'S7'       '1' \
+                  'U3'       '11' \
+                  'X4'       '4' \
+                  ;
+Change Class 0;
+Signal 'D3-6'     'R32'      'P$1' \
+                  'S5'       '1' \
+                  'U3'       '12' \
+                  'X4'       '3' \
+                  ;
+Change Class 0;
+Signal 'D3-7'     'R44'      'P$2' \
+                  'R7'       'P$2' \
+                  'U3'       '13' \
+                  ;
+Change Class 0;
+Signal 'D3-8'     'R38'      'P$1' \
+                  'S2'       '1' \
+                  'U3'       '14' \
+                  'X4'       '1' \
+                  ;
+Change Class 0;
+Signal 'D3-9'     'R75'      'P$1' \
+                  'U3'       '15' \
+                  'X2'       '1' \
+                  ;
+Change Class 0;
+Signal 'D3-10'    'R74'      'P$1' \
+                  'U3'       '16' \
+                  'X2'       '2' \
+                  ;
+Change Class 0;
+Signal 'D3-11'    'R73'      'P$1' \
+                  'U3'       '17' \
+                  'X2'       '3' \
+                  ;
+Change Class 0;
+Signal 'D3-12'    'R63'      'P$1' \
+                  'U3'       '18' \
+                  'X2'       '4' \
+                  ;
+Change Class 0;
+Signal 'D3-13'    'R76'      'P$1' \
+                  'U3'       '19' \
+                  'X2'       '5' \
+                  ;
+Change Class 0;
+Signal 'GND'      '7805'     '2' \
+                  '7808'     '2' \
+                  'C10'      '2' \
+                  'C5'       '1' \
+                  'C6'       '2' \
+                  'C7'       '2' \
+                  'C8'       '1' \
+                  'D2'       'A' \
+                  'D4'       'A' \
+                  'LED7'     'K' \
+                  'R10'      'P$1' \
+                  'R14'      'P$2' \
+                  'R27'      'P$1' \
+                  'R27'      'P$2' \
+                  'R28'      'P$1' \
+                  'R28'      'P$2' \
+                  'R29'      'P$2' \
+                  'R33'      'P$2' \
+                  'R34'      'P$2' \
+                  'R35'      'P$2' \
+                  'R37'      'P$1' \
+                  'R39'      'P$1' \
+                  'R40'      'P$1' \
+                  'R44'      'P$1' \
+                  'R45'      'P$1' \
+                  'R47'      'P$1' \
+                  'R52'      'P$2' \
+                  'R53'      'P$2' \
+                  'R54'      'P$2' \
+                  'R55'      'P$2' \
+                  'R57'      'P$1' \
+                  'R58'      'P$2' \
+                  'R59'      'P$2' \
+                  'R6'       'P$1' \
+                  'R60'      'P$2' \
+                  'R61'      'P$2' \
+                  'R63'      'P$2' \
+                  'R65'      'P$2' \
+                  'R66'      'P$2' \
+                  'R67'      'P$2' \
+                  'R68'      'P$2' \
+                  'R69'      'P$2' \
+                  'R70'      'P$1' \
+                  'R71'      'P$1' \
+                  'R73'      'P$2' \
+                  'R74'      'P$2' \
+                  'R75'      'P$2' \
+                  'R76'      'P$2' \
+                  'S1'       '4' \
+                  'S3'       '3' \
+                  'SV2'      '1' \
+                  'SV2'      '2' \
+                  'SV2'      '4' \
+                  'SV3'      '7' \
+                  'T12'      '1' \
+                  'T2'       '1' \
+                  'T4'       '1' \
+                  'T6'       '1' \
+                  'T8'       '1' \
+                  'X11'      '1' \
+                  'X11'      '2' \
+                  'X11'      '3' \
+                  'X11'      '4' \
+                  'X11'      '5' \
+                  'X11'      '6' \
+                  'X11'      '7' \
+                  'X11'      '8' \
+                  'X14'      '3' \
+                  ;
+Change Class 0;
+Signal 'N$1'      'C2'       '2' \
+                  'U2'       '9' \
+                  'X1'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'C1'       '2' \
+                  'U2'       '10' \
+                  'X1'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$3'      'R1'       'P$2' \
+                  'S1'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$4'      'S1'       '2' \
+                  'U2'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$5'      'R2'       'P$1' \
+                  'R43'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$6'      'R2'       'P$2' \
+                  'R3'       'P$1' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'R3'       'P$2' \
+                  'R4'       'P$1' \
+                  ;
+Change Class 0;
+Signal 'N$8'      'R17'      'P$1' \
+                  'R5'       'P$1' \
+                  'U$2'      'COIL1' \
+                  ;
+Change Class 0;
+Signal 'N$9'      'LED1'     'A' \
+                  'R15'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$10'     'LED1'     'K' \
+                  'T2'       '3' \
+                  'U$1'      'COIL0' \
+                  ;
+Change Class 0;
+Signal 'N$11'     'R16'      'P$2' \
+                  'T2'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$12'     'T1'       'P$2' \
+                  'U$1'      'SWCOMMON' \
+                  ;
+Change Class 0;
+Signal 'N$13'     'T1'       'P$1' \
+                  'U$1'      'SWCLOSED' \
+                  ;
+Change Class 0;
+Signal 'N$14'     'T1'       'P$3' \
+                  'U$1'      'SWOPEN' \
+                  ;
+Change Class 0;
+Signal 'N$15'     'LED2'     'A' \
+                  'R17'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$16'     'LED2'     'K' \
+                  'T4'       '3' \
+                  'U$2'      'COIL0' \
+                  ;
+Change Class 0;
+Signal 'N$17'     'R18'      'P$2' \
+                  'T4'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$18'     'T3'       'P$2' \
+                  'U$2'      'SWCOMMON' \
+                  ;
+Change Class 0;
+Signal 'N$19'     'T3'       'P$1' \
+                  'U$2'      'SWCLOSED' \
+                  ;
+Change Class 0;
+Signal 'N$20'     'T3'       'P$3' \
+                  'U$2'      'SWOPEN' \
+                  ;
+Change Class 0;
+Signal 'N$21'     'LED3'     'A' \
+                  'R19'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$22'     'LED3'     'K' \
+                  'T6'       '3' \
+                  'U$3'      'COIL0' \
+                  ;
+Change Class 0;
+Signal 'N$23'     'R20'      'P$2' \
+                  'T6'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$24'     'T5'       'P$2' \
+                  'U$3'      'SWCOMMON' \
+                  ;
+Change Class 0;
+Signal 'N$25'     'T5'       'P$1' \
+                  'U$3'      'SWCLOSED' \
+                  ;
+Change Class 0;
+Signal 'N$26'     'T5'       'P$3' \
+                  'U$3'      'SWOPEN' \
+                  ;
+Change Class 0;
+Signal 'N$27'     'LED4'     'A' \
+                  'R21'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$28'     'LED4'     'K' \
+                  'T8'       '3' \
+                  'U$4'      'COIL0' \
+                  ;
+Change Class 0;
+Signal 'N$29'     'R22'      'P$2' \
+                  'T8'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$30'     'T7'       'P$2' \
+                  'U$4'      'SWCOMMON' \
+                  ;
+Change Class 0;
+Signal 'N$31'     'T7'       'P$1' \
+                  'U$4'      'SWCLOSED' \
+                  ;
+Change Class 0;
+Signal 'N$32'     'T7'       'P$3' \
+                  'U$4'      'SWOPEN' \
+                  ;
+Change Class 0;
+Signal 'N$33'     'LED5'     'A' \
+                  'R23'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$34'     'LED5'     'K' \
+                  'T10'      '3' \
+                  'U$5'      'COIL0' \
+                  ;
+Change Class 0;
+Signal 'N$35'     'R24'      'P$2' \
+                  'T10'      '2' \
+                  ;
+Change Class 0;
+Signal 'N$36'     'T9'       'P$2' \
+                  'U$5'      'SWCOMMON' \
+                  ;
+Change Class 0;
+Signal 'N$37'     'T9'       'P$1' \
+                  'U$5'      'SWCLOSED' \
+                  ;
+Change Class 0;
+Signal 'N$38'     'T9'       'P$3' \
+                  'U$5'      'SWOPEN' \
+                  ;
+Change Class 0;
+Signal 'N$39'     'LED6'     'A' \
+                  'R25'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$40'     'LED6'     'K' \
+                  'T12'      '3' \
+                  'U$6'      'COIL0' \
+                  ;
+Change Class 0;
+Signal 'N$41'     'R26'      'P$2' \
+                  'T12'      '2' \
+                  ;
+Change Class 0;
+Signal 'N$42'     'T11'      'P$2' \
+                  'U$6'      'SWCOMMON' \
+                  ;
+Change Class 0;
+Signal 'N$43'     'T11'      'P$1' \
+                  'U$6'      'SWCLOSED' \
+                  ;
+Change Class 0;
+Signal 'N$44'     'T11'      'P$3' \
+                  'U$6'      'SWOPEN' \
+                  ;
+Change Class 0;
+Signal 'N$45'     '7808'     '1' \
+                  'C9'       '1' \
+                  'D1'       'C' \
+                  'D3'       'C' \
+                  'X14'      '1' \
+                  'X14'      '2' \
+                  ;
+Change Class 0;
+Signal 'N$46'     'LED7'     'A' \
+                  'R41'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$47'     'D3'       'A' \
+                  'D4'       'C' \
+                  'POWER-INPUT' '1' \
+                  ;
+Change Class 0;
+Signal 'N$48'     'D1'       'A' \
+                  'D2'       'C' \
+                  'POWER-INPUT' '2' \
+                  ;
+Change Class 0;
+Signal 'N$49'     'C8'       '2' \
+                  'U3'       '9' \
+                  'X3'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$50'     '7805'     '1' \
+                  '7808'     '3' \
+                  'C10'      '1' \
+                  'C6'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$51'     'C5'       '2' \
+                  'U3'       '10' \
+                  'X3'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$52'     'R42'      'P$2' \
+                  'S3'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$53'     'S3'       '2' \
+                  'U3'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$54'     'C9'       '2' \
+                  'R29'      'P$1' \
+                  ;
+Change Class 0;
+Signal 'N$55'     'C1'       '1' \
+                  'C2'       '1' \
+                  'R14'      'P$1' \
+                  'R72'      'P$1' \
+                  ;
+Change Class 0;
+Signal 'N$56'     'R11'      'P$2' \
+                  'R12'      'P$1' \
+                  ;
+Change Class 0;
+Signal 'N$57'     'R50'      'P$1' \
+                  'U2'       '27' \
+                  ;
+Change Class 0;
+Signal 'N$58'     'R51'      'P$1' \
+                  'U2'       '28' \
+                  ;
+Change Class 0;
+Signal 'N$61'     'R64'      'P$1' \
+                  'U2'       '25' \
+                  ;
+Change Class 0;
+Signal 'N$62'     'R10'      'P$2' \
+                  'T10'      '1' \
+                  ;
+Change Class 0;
+Signal 'N$63'     'R12'      'P$2' \
+                  'R13'      'P$1' \
+                  ;
+Change Class 0;
+Signal 'N$67'     'R40'      'P$2' \
+                  'U3'       '22' \
+                  ;
+Change Class 0;
+Signal 'N$68'     'R70'      'P$2' \
+                  'U3'       '8' \
+                  ;
+Change Class 0;
+Signal 'N$69'     'R71'      'P$2' \
+                  'U2'       '22' \
+                  ;
+Change Class 0;
+Signal 'N$70'     'R72'      'P$2' \
+                  'U2'       '8' \
+                  ;
+Change Class 0;
+Signal 'N$71'     'R38'      'P$2' \
+                  'R6'       'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$72'     'R50'      'P$2' \
+                  'R8'       'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$73'     'R30'      'P$1' \
+                  'SV2'      '11' \
+                  'SV2'      '3' \
+                  'SV2'      '5' \
+                  'SV2'      '7' \
+                  'SV2'      '9' \
+                  ;
+Change Class 0;
+Signal 'N$74'     'R21'      'P$1' \
+                  'R31'      'P$1' \
+                  'U$4'      'COIL1' \
+                  ;
+Change Class 0;
+Signal 'N$75'     'R36'      'P$2' \
+                  'R37'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$76'     'R56'      'P$2' \
+                  'S1'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$77'     'R56'      'P$1' \
+                  'R57'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$78'     'R32'      'P$2' \
+                  'R45'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'N$79'     'R7'       'P$1' \
+                  'S4'       '1' \
+                  'X4'       '2' \
+                  ;
+Change Class 0;
+Signal 'VCC'      '7805'     '3' \
+                  'C7'       '1' \
+                  'R1'       'P$1' \
+                  'R15'      'P$1' \
+                  'R19'      'P$1' \
+                  'R23'      'P$1' \
+                  'R25'      'P$1' \
+                  'R30'      'P$2' \
+                  'R31'      'P$2' \
+                  'R41'      'P$1' \
+                  'R42'      'P$1' \
+                  'R5'       'P$2' \
+                  'R9'       'P$1' \
+                  'R9'       'P$2' \
+                  'S2'       '3' \
+                  'S4'       '3' \
+                  'S5'       '3' \
+                  'S7'       '3' \
+                  'S8'       '3' \
+                  'SV3'      '1' \
+                  'SV3'      '3' \
+                  'SV3'      '5' \
+                  'U$1'      'COIL1' \
+                  'U$3'      'COIL1' \
+                  'U$5'      'COIL1' \
+                  'U$6'      'COIL1' \
+                  'U2'       '20' \
+                  'U2'       '21' \
+                  'U2'       '7' \
+                  'U3'       '20' \
+                  'U3'       '21' \
+                  'U3'       '7' \
+                  'X10'      '1' \
+                  'X10'      '2' \
+                  'X10'      '3' \
+                  'X10'      '4' \
+                  'X10'      '5' \
+                  'X10'      '6' \
+                  'X10'      '7' \
+                  'X10'      '8' \
+                  ;
